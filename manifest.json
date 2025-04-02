@@ -1,6 +1,7 @@
 {
-  "name": "Estratégia Mines IA",
+  "name": "Estratégia Mines IA Avançada",
   "short_name": "Mines IA",
+  "description": "Algoritmos de IA avançados para otimizar resultados no Mines",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -10,12 +11,14 @@
     {
       "src": "icon-192x192.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "192x192",
+      "purpose": "any maskable"
     },
     {
       "src": "icon-512x512.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ]
 }
